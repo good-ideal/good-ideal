@@ -11,10 +11,10 @@ Updates `README.md` with the recent GitHub activity of a user.
 ## Instructions
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.4.1](https://github.com/jamesgeorge007/github-activity-readme/releases/tag/v0.4.1) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🎉 Merged PR [#104](https://github.com/jamesgeorge007/github-activity-readme/pull/104) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-3. 🔒 Closed issue [#99](https://github.com/jamesgeorge007/github-activity-readme/issues/99) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. 🗣 Commented on [#102](https://github.com/jamesgeorge007/github-activity-readme/pull/102#issuecomment-1627773520) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. ❗ Opened issue [#5](https://github.com/h3110w0r1d-y/gitmoji-plus-intellij-plugin/issues/5) in [h3110w0r1d-y/gitmoji-plus-intellij-plugin](https://github.com/h3110w0r1d-y/gitmoji-plus-intellij-plugin)
+2. ❗ Opened issue [#5](https://github.com/Evansy/MallChatWeb/issues/5) in [Evansy/MallChatWeb](https://github.com/Evansy/MallChatWeb)
+3. 🗣 Commented on [#45](https://github.com/ClassmateLin/dm-ticket/issues/45#issuecomment-1567699144) in [ClassmateLin/dm-ticket](https://github.com/ClassmateLin/dm-ticket)
+4. 🚀 Published release [v13.9](https://github.com/good-ideal/R3nzSkin/releases/tag/13.9) in [good-ideal/R3nzSkin](https://github.com/good-ideal/R3nzSkin)
 5. 🔒 Closed issue [#96](https://github.com/jamesgeorge007/github-activity-readme/issues/96) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
