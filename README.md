@@ -28,4 +28,8 @@
 <!--END_SECTION:activity-->
 
 ##### GitHub status:
-![](https://github-readme-activity-graph.vercel.app/graph?username=good-ideal&theme=github&height=320)
+![](https://github-readme-activity-graph.vercel.app/graph?username=good-ideal&theme=tokyo-night&height=320)
+
+
+
+
