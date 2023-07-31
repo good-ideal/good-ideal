@@ -1,15 +1,24 @@
 
-# GitHub Activity in Readme
+<h3>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势">
+  Hi there! I'm Cai~ 
+  <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
+</h3>
+
+<a href="https://github.com/good-ideal">
+  <div align="right" >
+     <img align="right" src="https://access-counter.vercel.app/api/counter?name=good-ideal&theme=006&length=7" alt="Cai" />
+  </div>
+</a>
+
+- 😄Read more about my [Blog](http://blog.s6.design)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=true&vCenter=true&width=500&height=22&lines=Thank+you+for+your+attention.🎈)
+
+![](https://img.shields.io/badge/Java-red.svg?logo=openjdk) ![](https://img.shields.io/badge/SpringBoot-blue.svg?logo=springboot) ![](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white) ![](https://img.shields.io/badge/-Vue.js-29beb0?style=flat-square&logo=vue.js&labelColor=ffffff&color=4FC08D) ![](https://img.shields.io/badge/-Electron-white?style=flat-square&logo=electron&logoColor=white&color=47848F) ![](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white) ![](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=MySQL&logoColor=white&color=fff&labelColor=4479A1) ![](https://img.shields.io/badge/-Jenkins-white?style=flat-square&logo=Jenkins&labelColor=D24939&color=white&logoColor=white) ![](https://img.shields.io/badge/-Docker-white?style=flat-square&logo=Docker&labelColor=2496ED&color=2496ED&logoColor=white)
 
 
-Updates `README.md` with the recent GitHub activity of a user.
-
-<img width="735" alt="profile-repo" src="https://user-images.githubusercontent.com/25279263/87703301-3aa4a500-c7b8-11ea-8eb6-245121997a7b.png">
-
----
-
-## Instructions
-
+##### GitHub trends:
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#5](https://github.com/h3110w0r1d-y/gitmoji-plus-intellij-plugin/issues/5) in [h3110w0r1d-y/gitmoji-plus-intellij-plugin](https://github.com/h3110w0r1d-y/gitmoji-plus-intellij-plugin)
 2. ❗ Opened issue [#5](https://github.com/Evansy/MallChatWeb/issues/5) in [Evansy/MallChatWeb](https://github.com/Evansy/MallChatWeb)
@@ -18,77 +27,5 @@ Updates `README.md` with the recent GitHub activity of a user.
 5. 🔒 Closed issue [#96](https://github.com/jamesgeorge007/github-activity-readme/issues/96) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
-- Add the comment `<!--START_SECTION:activity-->` (entry point) within `README.md`. You can find an example [here](https://github.com/jamesgeorge007/jamesgeorge007/blob/master/README.md).
-
-- It's the time to create a workflow file.
-
-`.github/workflows/update-readme.yml`
-
-```yml
-name: Update README
-on:
-  schedule:
-    - cron: "*/30 * * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    name: Update this repo's README with recent activity
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
-    steps:
-      - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-The above job runs every half an hour, you can change it as you wish based on the [cron syntax](https://jasonet.co/posts/scheduled-actions/#the-cron-syntax).
-
-Please note that only those public events that belong to the following list show up:-
-
-- `IssueEvent`
-- `ReleaseEvent`
-- `IssueCommentEvent`
-- `PullRequestEvent`
-
-You can find an example [here](https://github.com/jamesgeorge007/jamesgeorge007/blob/master/.github/workflows/update-readme.yml).
-
-### Override defaults
-
-Use the following `input params` to customize it for your use case:-
-
-| Input Param    | Default Value                                         | Description                                               |
-| -------------- | ----------------------------------------------------- | --------------------------------------------------------- |
-| `COMMIT_NAME`  | github-actions[bot]                                   | Name of the committer                                     |
-| `COMMIT_EMAIL` | 41898282+github-actions[bot]@users.noreply.github.com | Email of the committer                                    |
-| `COMMIT_MSG`   | :zap: Update README with the recent activity          | Commit message used while committing to the repo          |
-| `MAX_LINES`    | 5                                                     | The maximum number of lines populated in your readme file |
-| `TARGET_FILE`  | README.md                                             | The file to insert recent activity into                   |
-
-```yml
-name: Update README
-on:
-  schedule:
-    - cron: "*/30 * * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    name: Update this repo's README with recent activity
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
-    steps:
-      - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: "Specify a custom commit message"
-          MAX_LINES: 10
-          COMMIT_NAME: GitHub Activity Readme
-```
-
-_Inspired by [JasonEtco/activity-box](https://github.com/JasonEtco/activity-box)_
+##### GitHub status:
+![](https://github-readme-activity-graph.vercel.app/graph?username=good-ideal&theme=github&height=320)
