@@ -20,9 +20,9 @@
 
 ##### GitHub trends:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#728](https://github.com/R3nzTheCodeGOD/R3nzSkin/issues/728#issuecomment-1698669109) in [R3nzTheCodeGOD/R3nzSkin](https://github.com/R3nzTheCodeGOD/R3nzSkin)
-2. ❗ Opened issue [#5](https://github.com/h3110w0r1d-y/gitmoji-plus-intellij-plugin/issues/5) in [h3110w0r1d-y/gitmoji-plus-intellij-plugin](https://github.com/h3110w0r1d-y/gitmoji-plus-intellij-plugin)
-3. ❗ Opened issue [#5](https://github.com/Evansy/MallChatWeb/issues/5) in [Evansy/MallChatWeb](https://github.com/Evansy/MallChatWeb)
+1. ❗ Opened issue [#9120](https://github.com/Eugeny/tabby/issues/9120) in [Eugeny/tabby](https://github.com/Eugeny/tabby)
+2. 🗣 Commented on [#728](https://github.com/R3nzTheCodeGOD/R3nzSkin/issues/728#issuecomment-1698669109) in [R3nzTheCodeGOD/R3nzSkin](https://github.com/R3nzTheCodeGOD/R3nzSkin)
+3. ❗ Opened issue [#5](https://github.com/h3110w0r1d-y/gitmoji-plus-intellij-plugin/issues/5) in [h3110w0r1d-y/gitmoji-plus-intellij-plugin](https://github.com/h3110w0r1d-y/gitmoji-plus-intellij-plugin)
 4. 🗣 Commented on [#45](https://github.com/ClassmateLin/dm-ticket/issues/45#issuecomment-1567699144) in [ClassmateLin/dm-ticket](https://github.com/ClassmateLin/dm-ticket)
 5. 🔒 Closed issue [#96](https://github.com/jamesgeorge007/github-activity-readme/issues/96) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
