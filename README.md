@@ -20,8 +20,8 @@
 
 ##### GitHub trends:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#232](https://github.com/Finb/Bark/issues/232) in [Finb/Bark](https://github.com/Finb/Bark)
-2. 🗣 Commented on [#728](https://github.com/R3nzTheCodeGOD/R3nzSkin/issues/728#issuecomment-1698669109) in [R3nzTheCodeGOD/R3nzSkin](https://github.com/R3nzTheCodeGOD/R3nzSkin)
+1. ❗ Opened issue [#394](https://github.com/HeyPuter/puter/issues/394) in [HeyPuter/puter](https://github.com/HeyPuter/puter)
+2. ❗ Opened issue [#232](https://github.com/Finb/Bark/issues/232) in [Finb/Bark](https://github.com/Finb/Bark)
 3. ❗ Opened issue [#5](https://github.com/h3110w0r1d-y/gitmoji-plus-intellij-plugin/issues/5) in [h3110w0r1d-y/gitmoji-plus-intellij-plugin](https://github.com/h3110w0r1d-y/gitmoji-plus-intellij-plugin)
 4. 🗣 Commented on [#45](https://github.com/ClassmateLin/dm-ticket/issues/45#issuecomment-1567699144) in [ClassmateLin/dm-ticket](https://github.com/ClassmateLin/dm-ticket)
 5. 🔒 Closed issue [#96](https://github.com/jamesgeorge007/github-activity-readme/issues/96) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
